@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5497eb8.chunk.css",
-    "main.js": "/static/js/main.d423bdc0.chunk.js",
-    "main.js.map": "/static/js/main.d423bdc0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
-    "static/js/2.697a6ba3.chunk.js": "/static/js/2.697a6ba3.chunk.js",
-    "static/js/2.697a6ba3.chunk.js.map": "/static/js/2.697a6ba3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3a2ee4f3b5529340ee9d101f42196a0e.js": "/precache-manifest.3a2ee4f3b5529340ee9d101f42196a0e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.f5497eb8.chunk.css.map": "/static/css/main.f5497eb8.chunk.css.map",
-    "static/js/2.697a6ba3.chunk.js.LICENSE.txt": "/static/js/2.697a6ba3.chunk.js.LICENSE.txt",
-    "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.32f6b574.png",
-    "static/media/iiit-new.jpg": "/static/media/iiit-new.16f56c92.jpg",
-    "static/media/resume.pdf": "/static/media/resume.99dd3b0e.pdf",
-    "static/media/suyash.jpeg": "/static/media/suyash.f20cc829.jpeg"
+    "main.css": "/Portfolio/static/css/main.f5497eb8.chunk.css",
+    "main.js": "/Portfolio/static/js/main.acf7dce2.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.acf7dce2.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.d4446722.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d4446722.js.map",
+    "static/js/2.697a6ba3.chunk.js": "/Portfolio/static/js/2.697a6ba3.chunk.js",
+    "static/js/2.697a6ba3.chunk.js.map": "/Portfolio/static/js/2.697a6ba3.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.648c45eaf1acf5c88fac64197c812bd4.js": "/Portfolio/precache-manifest.648c45eaf1acf5c88fac64197c812bd4.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.f5497eb8.chunk.css.map": "/Portfolio/static/css/main.f5497eb8.chunk.css.map",
+    "static/js/2.697a6ba3.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.697a6ba3.chunk.js.LICENSE.txt",
+    "static/media/hashirshoaeb.png": "/Portfolio/static/media/hashirshoaeb.32f6b574.png",
+    "static/media/iiit-new.jpg": "/Portfolio/static/media/iiit-new.16f56c92.jpg",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.8599fbf2.pdf",
+    "static/media/suyash.jpeg": "/Portfolio/static/media/suyash.f20cc829.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.554504a0.js",
+    "static/js/runtime-main.d4446722.js",
     "static/js/2.697a6ba3.chunk.js",
     "static/css/main.f5497eb8.chunk.css",
-    "static/js/main.d423bdc0.chunk.js"
+    "static/js/main.acf7dce2.chunk.js"
   ]
 }
